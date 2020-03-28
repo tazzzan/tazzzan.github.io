@@ -430,7 +430,9 @@ MIT
 
 @angular/material/icon
 
-@angular/material/button
+@angular/material/expansion
+
+@angular/material/checkbox
 
 zone.js
 MIT
