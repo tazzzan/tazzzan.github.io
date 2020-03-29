@@ -414,6 +414,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+@angular/material/icon
+
 @angular/forms
 MIT
 
@@ -427,8 +429,6 @@ MIT
 @angular/material/divider
 
 @angular/material/card
-
-@angular/material/icon
 
 @angular/material/expansion
 
