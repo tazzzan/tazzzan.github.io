@@ -457,6 +457,8 @@ MIT
 
 @angular/material/expansion
 
+@angular/material/chips
+
 @angular/material/checkbox
 
 @angular/material/form-field
